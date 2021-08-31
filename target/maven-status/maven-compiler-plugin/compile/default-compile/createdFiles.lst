@@ -1,0 +1,5 @@
+com\andre\friendsapi\Friend.class
+com\andre\friendsapi\FriendController.class
+com\andre\friendsapi\FriendRepository.class
+com\andre\friendsapi\FriendService.class
+com\andre\friendsapi\FriendsapiApplication.class
